@@ -1,0 +1,14 @@
+torch>=1.13.0
+torchvision
+transformers
+accelerate
+bitsandbytes
+openai>=1.10.0
+flask
+pandas
+numpy
+matplotlib
+torchmetrics
+scikit-learn
+tqdm
+seaborn
