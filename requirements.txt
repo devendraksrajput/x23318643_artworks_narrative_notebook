@@ -12,3 +12,7 @@ torchmetrics
 scikit-learn
 tqdm
 seaborn
+timm
+torchmetrics
+albumentations
+opencv-python-headless
